@@ -1,0 +1,3 @@
+{
+    "playwrightrunner.playwrightPath": "node_modules\\@playwright\\test\\lib\\cli\\cli.js"
+}
