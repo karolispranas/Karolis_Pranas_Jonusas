@@ -1,3 +1,3 @@
 # Karolis_Pranas_Jonusas
 
-My first test
+My first test and homework
