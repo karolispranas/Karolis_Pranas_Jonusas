@@ -19,5 +19,8 @@
   "homepage": "https://github.com/karolispranas/Karolis_Pranas_Jonusas#readme",
   "dependencies": {
     "@playwright/test": "^1.13.1"
+  },
+  "directories": {
+    "test": "test"
   }
 }
